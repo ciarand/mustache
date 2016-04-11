@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 ## Overview
 
 mustache.go is an implementation of the mustache template language in Go. It is better suited for website templates than Go's native pkg/template. mustache.go is fast -- it parses templates efficiently and stores them in a tree-like structure which allows for fast execution. 
